@@ -6,7 +6,7 @@ People are asking AI (like ChatGPT or Google's new search) questions, and the AI
 
 This guide explains what that means, how to adjust, and the simple steps you can take this week to make your business the one AI trusts.
 
-![Hero: How to Rank in AI Answers](https://placehold.co/1400x700 "A clean, modern illustration of knowledge graphs and citations feeding an AI answer box")
+![Hero: How to Rank in AI Answers](https://dlbvgkmykjuricmzvfat.supabase.co/storage/v1/object/public/red-engage/how-to-rank-in-ai-1.png)
 
 ---
 
@@ -22,6 +22,8 @@ This guide explains what that means, how to adjust, and the simple steps you can
 ---
 
 ## What’s Changed? (And What It Means for You)
+
+![What Are The New Changes](https://dlbvgkmykjuricmzvfat.supabase.co/storage/v1/object/public/red-engage/how-to-rank-in-ai-2.png)
 
 Getting on Google used to be about getting your *website link* to the top of the list. This new way is about getting your *information* included in the answer AI writes.
 
@@ -49,6 +51,8 @@ Most importantly, link *from* this page to your official social media profiles (
 * **Quick win:** On your "About Us" page, add a "Company Facts" box. Use 8-12 simple bullet points. Keep each line short and true (example: "Started in: 2020," "Services: Local Plumbing, 24/7 Repairs," "Service Area: Springfield County").
 
 ### 2. Create Small, Helpful Blocks of Information
+
+![Helpful Content Blocks](https://dlbvgkmykjuricmzvfat.supabase.co/storage/v1/object/public/red-engage/how-to-rank-in-ai-3.png)
 
 AI programs *love* finding neat, tidy blocks of text that directly answer a question. Think about creating your information in these simple formats:
 
@@ -104,6 +108,8 @@ Instead, **add a new, dated note** with the correction or update. This way, you 
 
 ## The Good and the Bad of This New Way
 
+![The Good and the Bad](https://dlbvgkmykjuricmzvfat.supabase.co/storage/v1/object/public/red-engage/how-to-rank-in-ai-4.png)
+
 **The Good Stuff**
 
 * Increases the chance your business's information appears *inside* AI answers.
@@ -121,6 +127,8 @@ Instead, **add a new, dated note** with the correction or update. This way, you 
 ---
 
 ## Common Mistakes to Avoid
+
+![Avoid These Common Mistakes](https://dlbvgkmykjuricmzvfat.supabase.co/storage/v1/object/public/red-engage/how-to-rank-in-ai-5.png)
 
 * **A Vague "About Us" Page:** If your "About Us" page could describe five other companies, an AI won't know what makes you special. Be specific.
 * **"Everything" Pages:** Avoid making one single page that tries to cover "everything about everything." An AI won't know what single fact to grab from it.
