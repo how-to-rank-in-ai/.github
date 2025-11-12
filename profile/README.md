@@ -1,7 +1,3 @@
-Perfect—here’s a clean, ready-to-publish post you can drop into `index.md` (or any page). I included **clear image slots**—one hero at the top and strategic visuals throughout. Keep or replace the captions as you like.
-
----
-
 # How to Rank in AI Answers (LLM SEO)
 
 <!-- HERO IMAGE -->
@@ -157,12 +153,3 @@ To rank in AI answers, make your **entity unmistakable**, your **facts citable**
 -->
 
 ---
-
-### Image Notes (quick guide)
-
-* Replace each `https://placehold.co/...` URL with your real image.
-* Keep **alt text** descriptive and **titles** short—these double as helpful machine signals.
-* Use consistent file names (e.g., `llm-seo-checklist.png`, `entity-schema-jsonld.png`).
-* Prefer SVG/PNG for diagrams; compress for fast loading.
-
-If you want, I can also turn this into a version with **front-matter** and a **table of contents**, or adapt it for **LinkedIn** with a carousel of the diagrams.
