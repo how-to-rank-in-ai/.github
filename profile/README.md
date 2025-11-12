@@ -163,11 +163,13 @@ This is the new way to be found online. We can help you be first.
 
 ---
 
+![Visit Red-Engage Website](https://red-engage.com/red-engage-brand-logo.webp)
+
 **Written by Michal Hajtas, Red-Engage**
 
 **Visit Red-Engage → [https://red-engage.com](https://red-engage.com)**
 
-![Visit Red-Engage Website](https://red-engage.com/red-engage-brand-logo.webp)
+
 
 <!-- CTA BUTTON VARIANT (for websites that render HTML) 
 <p style="margin-top:12px;">
