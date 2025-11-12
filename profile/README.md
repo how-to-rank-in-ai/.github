@@ -42,7 +42,7 @@ To do this, you just need to be clear about who you are, create easy-to-use fact
 
 ## 📜 Your Step-by-Step Guide
 
-### 1. 💎 Make It Crystal Clear Who You Are
+### 💎 1. Make It Crystal Clear Who You Are
 
 If an AI can't tell the difference between you and your competitor, it might get confused or ignore you. Your first job is to make a perfect "About Us" page. This page *must* have your official business name, what you do, who you help, and the year you started.
 
@@ -50,7 +50,7 @@ Most importantly, link *from* this page to your official social media profiles (
 
 * Quick win: On your "About Us" page, add a "Company Facts" box. Use 8-12 simple bullet points. Keep each line short and true (example: "Started in: 2020," "Services: Local Plumbing, 24/7 Repairs," "Service Area: Springfield County").
 
-### 2. 📦 Create Small, Helpful Blocks of Information
+### 📦 2. Create Small, Helpful Blocks of Information
 
 ![Helpful Content Blocks](https://dlbvgkmykjuricmzvfat.supabase.co/storage/v1/object/public/red-engage/how-to-rank-in-ai-3.png)
 
@@ -66,7 +66,7 @@ When you write an article, put the main answer or definition right at the top, n
 
 * Quick win: Add a "Quick Summary" or "Main Point" box at the very top of your posts. Also, add a "Last Updated" date at the bottom. AI often looks at the start and end of a page to find the most important info.
 
-### 3. 📊 Put Your Facts in Simple Tables
+### 📊 3. Put Your Facts in Simple Tables
 
 This sounds more technical than it is. If you have product prices, different service plans, or lists of features, don't just write them in a long paragraph.
 
@@ -74,19 +74,19 @@ Put them in a simple table on your page with clear headings. Tables are very eas
 
 * Quick win: Start a simple `/updates` or `/news` page. When you make a change, post a dated, one-line update. (Example: "Nov 12, 2025: Added new service plans"). This shows AI that your site is active and your information is fresh.
 
-### 4. 📖 Make Your Site Easy to Read
+### 📖 4. Make Your Site Easy to Read
 
 Make sure the AI's "reading robots" can actually see your most important content. Keep your main pages (like "About Us" or "Pricing") simple and make sure they load fast. Don't hide your key information behind "click to reveal" buttons or annoying pop-ups that block the whole screen.
 
 * Quick win: Make sure your most important pages (like "About Us" and "Services") are linked from your website's main menu. This makes them easy for everyone, including AI, to find.
 
-### 5. 🧠 Show You're a Real Expert
+### 🧠 5. Show You're a Real Expert
 
 AI wants to know who wrote something and who is a trusted expert. Start using author names on your blog posts, along with their job title or a short bio. Publish your own small studies or helpful tips. Even a simple post about a trend you've noticed in *your* business is great. This gives AI something unique and original to use.
 
 * Quick win: Add a short "How We Check Our Facts" note to your site's footer (the very bottom of the page). Briefly explain that you check your information for accuracy and try to keep it updated. This is a huge trust signal for both AI and human readers.
 
-### 6. 🔄 Update, Don't Delete
+### 🔄 6. Update, Don't Delete
 
 This is a big one. When your information changes (like your pricing), your first thought might be to just delete the old info. Don't. Someone, or an AI, may have already seen and saved that old fact.
 
