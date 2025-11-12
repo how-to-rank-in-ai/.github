@@ -94,7 +94,7 @@ Instead, **add a new, dated note** with the correction or update. This way, you 
 
 ## Simple Examples You Can Copy
 
-* **'About Us' Facts Box:** "Started 2020; Independent; Offices in London; Services: A, B, C; We Help: Tech, Healthcare; Public contact: contact@example.com."
+* **'About Us' Facts Box:** "Started 2020; Independent; Offices in London; Services: A, B, C; We Help: Tech, Healthcare; Public contact: contact@red-engage.com."
 * **Clear Definition:** Start your post with: "AI SEO is the process of making your content easy for artificial intelligence to find, understand, and link to." Then, add more detail below.
 * **Helpful Q&A Section:** Use real questions. "How do I make my business clear to AI?" → "Start with a simple 'About Us' page listing your core services, location, and founding date."
 * **Simple Comparison Table:** A two-column table with "Term" and "Plain Definition." Keep the sections short and to the point.
