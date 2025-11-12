@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Main Repo Homepage -->
   <url>
-    <loc>https://github.com/YOUR-ORG/</loc>
+    <loc>https://github.com/how-to-rank-in-ai/</loc>
     <lastmod>2023-11-20</lastmod>
     <priority>1.0</priority>
   </url>
   <!-- Verified Working README -->
   <url>
-    <loc>https://github.com/YOUR-ORG/.github/blob/main/profile/README.md</loc>
+    <loc>https://github.com/how-to-rank-in-ai/.github/blob/main/profile/README.md</loc>
     <lastmod>2023-11-20</lastmod>
     <priority>0.8</priority>
   </url>
